@@ -1,9 +1,14 @@
 [
   {
-    "id": 1,
-    "name": "Test Map",
-    "description": "Offline World",
-    "downloadUrl": "https://clck.ru",
-    "size": "1.2MB"
+    "mapId": "1",
+    "mapName": "BEDWARS",
+    "mapIcon": "https://raw.githubusercontent.com/RIFAT5454/Ultra-go-offline.-Maps/main/maps/bedwars.png",
+    "mapZipUrl": "https://raw.githubusercontent.com/RIFAT5454/Ultra-go-offline.-Maps/main/maps/bedwars.zip"
+  },
+  {
+    "mapId": "2",
+    "mapName": "Jailbreak",
+    "mapIcon": "https://raw.githubusercontent.com/RIFAT5454/Ultra-go-offline.-Maps/main/maps/jailbreak.png",
+    "mapZipUrl": "https://raw.githubusercontent.com/RIFAT5454/Ultra-go-offline.-Maps/main/maps/jailbreak.zip"
   }
 ]
